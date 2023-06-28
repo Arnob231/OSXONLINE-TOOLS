@@ -1,1 +1,2 @@
-[1] OSXONLINE FRAMEWORK github.com/Arnob231/OSXONLINE-TOOLS/osxframework.bat osxonlineframework
+[1] OSXONLINE-FRAMEWORK https://github.com/Arnob231/OSXONLINE-TOOLS/blob/main/osxframework.bat OSXONLINE-FRAMEWORK
+[2] WINRAR-BRUTEFORCER https://github.com/Arnob231/OSXONLINE-TOOLS/blob/main/winrar-brute.bat WINRAR-BRUTEFORCER
